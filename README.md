@@ -1,4 +1,4 @@
-# CollegeApplications
+# ApplicantInsight: Predicting University Acceptance Trends
 
 
 ### Aim:
